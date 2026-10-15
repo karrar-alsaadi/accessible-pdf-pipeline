@@ -1,0 +1,17 @@
+# Input and generated PDFs (usually copyrighted or large)
+*.pdf
+!examples/*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
